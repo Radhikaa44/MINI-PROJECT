@@ -1,6 +1,7 @@
 # Project - IMAGE CLASSIFICATION
 
 This repository contains 3 files.
+
 1.Data Collection using bing downloader: 
     In may case it did not work properly hence, I tried downloading images manually. 
     
