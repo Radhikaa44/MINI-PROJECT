@@ -1,2 +1,4 @@
-# DataScience
-All about my progress in this course.
+# Project - IMAGE CLASSIFICATION
+
+This repository contains 3 files.
+1. 
